@@ -1,0 +1,12 @@
+.page {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.square {
+    background-color: black;
+    width: 95vw;
+    height: 50vh;
+}
